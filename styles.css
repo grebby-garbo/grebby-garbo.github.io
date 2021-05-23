@@ -16,11 +16,11 @@ p {
 }
 
 a {
-  color: #2f08ff;
+  color: #08ff83;
 }
 
 a:hover {
-  color: salmon;
+  color: rgb(125, 7, 155);
 }
 
 img {
@@ -41,8 +41,8 @@ img {
 }
 
 h1 {
-  border-bottom: 1px solid rgba(82, 44, 252, .8);
-  color: rgba(82, 44, 252, .8);
+  border-bottom: 1px solid rgba(44, 252, 252, 0.8);
+  color: rgba(138, 252, 44, 0.8);
   font-size: 1.8rem;
   font-weight: 500;
   margin: 2rem 0;
@@ -50,7 +50,7 @@ h1 {
 }
 
 h2 {
-  color: rgba(250, 128, 114, 0.9);
+  color: rgba(185, 22, 190, 0.9);
   font-size: 1.5rem;
   font-weight: 500;
   margin: 2rem 0 .35rem 0;
